@@ -1,15 +1,20 @@
-NHRA
+J.R. Todd Analysis
 
-This project will consist of collecting the drivers profile, racetrack statistics, and 
-driver statistics over the years.
+This project will consist of drivers profiles and Funny Car driver J.R. Todd's driver performance over 
+the years. 
 
-Racetrack statistics will include: name of the racetrack, date of the race, weather the day of race
-Driver statistics will include: reaction time, elapsed time, lane, if they had lane choice, miles per hour,
-qualifying position, time at 60 ft., time at 330 feet, time at 660 feet,  660 feet mph, and if they got
-the win light. 
+Drivers Profile: Name, DOB, Residence, Sponsor, Career Wins, Career Final Rounds, Career Best E.T., Career Best Speed, and Crew Chief
 
-The files will be broken by year and car class, e.g. if looking for J.R. Todd's championship win then 
-go to the 2018 Funny Car file. 
+Driver Performance: Race, Track, Date, Round, Opponent, Win/Loss, Lane, Qualifying Position, Reaction Time, 60/330/660 Feet Time, 660 ft/mph, Elapsed Time, MPH, Lane Choice, Air Temp, Realtive Humidity (%), Barometer, Adj. Altitude, Track Temp, Commentators Notes
 
-The aim of this project is to see if there is a correlation between X variable and if a driver will 
-get the win. Each dataframe will be broken out by driver to gather their individual correlations. 
+Aim of this Project
+
+1) Correlation between wins and 
+    a) between right or left lane
+    b) if have lane choice
+    c) if R.T. is better than opponents
+    d) track temperature 
+    e) air temperature
+
+2) Ideal conditions for wining
+3) Win to Lose ratio per drivers
